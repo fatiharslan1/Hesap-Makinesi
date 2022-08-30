@@ -1,0 +1,11 @@
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\Monster\source\repos\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
